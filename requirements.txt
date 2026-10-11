@@ -1,0 +1,4 @@
+flask
+pywebview
+requests
+pillow

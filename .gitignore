@@ -1,0 +1,25 @@
+# 运行时数据（用户个人配置 / 缓存，不入库）
+data.json
+mod_meta.json
+app.log
+
+# 图标缓存（运行时按 .tmod 逆向生成）
+static/mod_icons/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+.MypyCache/
+
+# 编辑器 / 系统
+.history/
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
