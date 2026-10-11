@@ -58,5 +58,3 @@ python debug.py          # 调试模式：保留后端控制台，实时查看�
 ## 📄 License
 
 本仓库以 **MIT License** 开源，详见 [`LICENSE`](LICENSE)。
-
-> 本版本虽已停止支持，但代码仍以 MIT 开源，任何人都可基于它继续开发或修改。
