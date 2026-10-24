@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# SPDX-License-Identifier: GPL-3.0-only
+# Copyright (C) 2026 HopingStar
 """图标工具模块（独立于 app.py，供其调用）
 
 职责：

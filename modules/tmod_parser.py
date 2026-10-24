@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-only
+# Copyright (C) 2026 HopingStar
 """tModLoader .tmod 文件逆向解析器（独立模块）。
 
 用途：从 .tmod 文件里提取游戏内图标（icon.png）和模组本名（Info.displayName），

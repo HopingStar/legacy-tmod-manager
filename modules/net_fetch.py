@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# SPDX-License-Identifier: GPL-3.0-only
+# Copyright (C) 2026 HopingStar
 """网络信息获取模块（独立于 app.py，供其调用）
 
 包含：
